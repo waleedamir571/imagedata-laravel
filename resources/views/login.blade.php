@@ -65,14 +65,11 @@
               </div>
               <div class="col-md-6">
                 <div
-                  class="position-absolute w-40 top-0 end-0 h-100 d-md-block d-none"
-                >
+                  class="position-absolute w-40 top-0 end-0 h-100 d-md-block d-none">
                   <div
                     class="oblique-image position-absolute fixed-top ms-auto h-100 z-index-0 bg-cover ms-n8"
                     style="
-                      background-image: url('../img/login.png');
-                    "
-                  >
+                      background-image: url('./img/login.png');">
                     {{-- <div
                       class="blur mt-12 p-4 text-center border border-white border-radius-md position-absolute fixed-bottom m-4"
                     >
