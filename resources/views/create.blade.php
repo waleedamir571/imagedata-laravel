@@ -282,7 +282,7 @@
                     <div class="card-body">
                         <form method="POST" action="{{ route('create.store') }}">
                             @csrf
-                        <label></label>
+                        <label>Name</label>
                         <div class="mb-3">
                           <input
                             type="text"
