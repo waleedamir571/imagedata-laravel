@@ -188,7 +188,7 @@
                     <div
                       class="oblique-image position-absolute d-flex fixed-top ms-auto h-100 z-index-0 bg-cover me-n8"
                       style="
-                        background-image: url('./img/img1.jpg');
+                        background-image: url('./img/img12.jpg');
                         
                       "
                  
