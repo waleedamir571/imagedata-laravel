@@ -91,7 +91,7 @@
 
                                 `
                                 <div class="col-md-3 image-gallery-item">
-                                    <img src="/storage/${imagePath}" alt="Image">
+                                    <img src="https://getmycertificationdoen.com/image-data/storage/app/public/${imagePath}" alt="Image">
                                 </div>`
                             );
                         });
