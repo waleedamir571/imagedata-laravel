@@ -28,7 +28,7 @@
                           placeholder="Enter your email address"
                           name="email"
                           id="email"
-                          aria-describedby="email-addon"
+                          aria-describedby="email-addon" required
                         />
                       </div>
                       <label>Password</label>
@@ -38,7 +38,7 @@
                           class="form-control"
                           name="password"
                           placeholder="Enter password"
-                          id="password"
+                          id="password" required
                         />
                       </div>
                     

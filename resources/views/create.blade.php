@@ -288,7 +288,7 @@
                             type="text"
                             class="form-control"
                             placeholder="Enter your name"
-                            name="name" id="username"
+                            name="name" id="username" required
                           />
                         </div>
                         <label>Email Address</label>
@@ -297,7 +297,7 @@
                             type="email"
                             class="form-control"
                             placeholder="Enter your email address"
-                            name="email" id="email"
+                            name="email" id="email" required
                           />
                         </div>
                         <label>Password</label>
