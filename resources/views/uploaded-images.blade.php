@@ -16,6 +16,23 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
 
     <style>
+
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    /* background-image: url('./img/img-3.jpg') !important; */
+    background: linear-gradient(45deg, #d6a9e0, #f7a8a8, #fde2b8) !important;
+
+    background-repeat: no-repeat !important;
+    background-size: 100% 100% !important;
+    overflow-x: hidden;
+    background: white;
+    color: #fff;
+    overflow-x: hidden;
+}
+
         /* Center the flags and add spacing */
         #flags {
             display: flex;
